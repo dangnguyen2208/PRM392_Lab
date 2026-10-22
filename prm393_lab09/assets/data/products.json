@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Dell XPS 13",
+    "category": "Electronics",
+    "price": 1299.99
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "category": "Smartphone",
+    "price": 999.0
+  },
+  {
+    "id": 3,
+    "name": "Bàn phím cơ Keychron K2",
+    "category": "Accessories",
+    "price": 89.5
+  },
+  {
+    "id": 4,
+    "name": "Chuột Logitech MX Master 3S",
+    "category": "Accessories",
+    "price": 99.0
+  }
+]
